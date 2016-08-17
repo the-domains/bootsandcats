@@ -1,4 +1,3 @@
-layout_spectrum: 0.0329287180211395
 typography_spectrum: 0.7957890967372805
 color:
   brandStrength: 0.8569514064583927
@@ -11,4 +10,6 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.0329287180211395
 name: Bootsandcats
+title: Boots & Cats
